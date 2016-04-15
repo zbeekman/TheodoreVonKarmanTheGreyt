@@ -15,3 +15,4 @@ Please see [CareInstructions.md] for details on medications, feeding and various
 
 [1]: 
 [2]: http://i.imgur.com/QcGxKCV.jpg "Move along now starwars meme"
+[CareInstructions.md]: ./CareInstructions.md
