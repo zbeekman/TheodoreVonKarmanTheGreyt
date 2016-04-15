@@ -1,5 +1,5 @@
 # Care Instructions for Theo Beekman
-c/o Wagtime 4/16/2016 to 4/18/2016
+Boarding 4/16/2016 to 4/18/2016
 
 ## About Theo
 Theo is a red-fawn make (neuter) greyhound, weighing about 80 lbs, born on Jan 8, 2010. He raced in Pima County AZ.
