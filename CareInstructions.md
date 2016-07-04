@@ -46,5 +46,4 @@ his stool and aid digestion. If he refuses one or two meals you can still give h
 is why he may not be enthusiastic about his food. Eventually he will get hungry and eat.
 
 ### Food prep instuctions
-Please combine the contents of 1 zip lock back (2 cups kibble and 2 tbsp dehydrated carrots) with 1 cup warm water and let stand until
-the carrots no longer look like pellets. Give it a stir and encourange him to eat.
+Add 2 tablespoons of dehydrated [Olewo carrots] to 1 cup water, and microwave for 1 minute. Let this mixture stand until it has the consistency of baby food. Add this to 3 scoops of Dick Van Patten's dry kibble, give it a stir and encourange him to eat.
