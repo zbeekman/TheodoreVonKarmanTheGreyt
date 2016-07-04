@@ -47,3 +47,5 @@ is why he may not be enthusiastic about his food. Eventually he will get hungry 
 
 ### Food prep instuctions
 Add 2 tablespoons of dehydrated [Olewo carrots] to 1 cup water, and microwave for 1 minute. Let this mixture stand until it has the consistency of baby food. Add this to 3 scoops of Dick Van Patten's dry kibble, give it a stir and encourange him to eat.
+
+[Olewo carrots]: https://www.amazon.com/Olewo-Dehydrated-Carrots-Supplement-11-Pound/dp/B0083QBVHY
