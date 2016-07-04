@@ -24,6 +24,8 @@ OK to give him his pills.
 
 __*IMPORTANT:*__ Do not crush any pills or mix them in with damp food or liquids. One medication is a time release tablet.
 
+![](https://github.com/zbeekman/TheodoreVonKarmanTheGreyt/blob/master/Theo-pill-box.png)
+
 #### Diltiazem extended release (Dilt XR) 60 mg tablets
 All white cylindrical tablets. One tablet, twice daily. (120 mg total in a day) These are used to treat his Arrhythmia.
 
