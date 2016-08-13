@@ -57,7 +57,7 @@ If Theo has loose stools you can give him 3 to 4 Tylan powder (yellow gel-caps) 
 Because greyhounds are delicate creatures, and due to his heart condition, walks during very hot weather should be kept short. Morning and night time walks can be a bit longer while it is cooler, but mid-day to early evening walks should be kept short.
 
 ### Emergencies
-Theo's normal vet is City Paws Animal Hospital, (202) 232-7297, on 14th St. If they are not open, then there is a magnet on the refigerator for Hope Animal Medical center in Vienna VA, which is open 24/7 and has emergency facilities. In addition, Judy Beha (Janine's mom) can be reached at 843-422-7657 and Bunny Beekman (Zaak's mom) can be reached at (917) 796-4653 (m) or (978) 515-7936.
+Theo's normal vet is City Paws Animal Hospital, (202) 232-7297, on 14th St. If they are not open, then there is a magnet on the refigerator for Hope Animal Medical center in Vienna VA, which is open 24/7 and has emergency facilities. In addition, Bunny Beekman (Zaak's mom) can be reached at (917) 796-4653 (m) or (978) 515-7936.
 
 ### Corns
 Theo has corns on a number of his paw pads. This is a chronic and frustrating greyhound specific condition. Because of this he is sensitive to walking on surfaces like gravel, street grates, and erroding pavement. He prefers smooth or soft surfaces like grass, carpet, smooth sidewalks, and crosswalk painted lines. This is just something to keep in mind when planning activities with him.
