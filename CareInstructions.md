@@ -19,7 +19,7 @@ some flexibility here, but in general he should go on 3 walks a day to
 prevent accidents or urgent middle of the night requests to go
 out. (He will let you know with fairly aggressive whining, which
 usually indicates he needs to go out to prevent an accident.) If he is
-refusing to go out, you can bribe him with roast beef to get out of
+refusing to go out, you can bribe him with roast beef to get him out of
 bed.
 
 ## :sparkles: About Theo :sparkles:
@@ -58,11 +58,6 @@ eats.
 Bright white, rounder tablets, white interior. One and a half tablets,
 twice daily. (30 mg total in a day) These treat his TVD and help
 prevent congestive heart failure.
-
-#### Fluoxetine 10 mg capsules
-White and green capsules. One capsules in the morning. If he misses a
-few doses of this it is not a problem.  This is to treat his
-separation anxiety (SA)
 
 ## Feeding
 Theo should eat twice a day. Once in the morning around 8:30 AM and
