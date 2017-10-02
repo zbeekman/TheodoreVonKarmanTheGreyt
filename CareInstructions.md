@@ -14,7 +14,7 @@ time walks). You can give him his pills wrapped in roast beef :cow:
 with or without food.
 
 **WALKS**: Theo usually goes out 3 times a day. Once around 8:30 AM,
-again around 6:00 PM and again around 10:30 PM before bed. There is
+again around 3:00 PM and again around 10:30 PM before bed. There is
 some flexibility here, but in general he should go on 3 walks a day to
 prevent accidents or urgent middle of the night requests to go
 out. (He will let you know with fairly aggressive whining, which
