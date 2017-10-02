@@ -23,10 +23,12 @@ refusing to go out, you can bribe him with roast beef to get him out of
 bed. He has been pretty stubborn recently, so bribery may be required.
 Please put his collar and leash on before giving him any bribe.
 
-**CORN UPDATE (foot problem/condition)**: The has a corn on his front
+**CORN UPDATE (foot problem/condition)**: We alwys feel like we're
+playing wack-a-mole with his corns. Theo has a corn on his front
 right and back right paws. His front paw is bothering him the most.
 Unfortunately there's not a lot that can be done, other than trying
-to plan walks on routes with smoother pavement and grass.
+to plan walks on routes with smoother pavement and grass. We apply a
+topical cream which helps too, but progress is slow.
 
 ## :sparkles: About Theo :sparkles:
 Theo is a red-fawn male (neuter) greyhound, weighing about 80 lbs,
