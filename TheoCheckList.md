@@ -7,8 +7,8 @@ Check List for Theo's Sleep Over Party
   - Food, and scooper
   - Carrot food suppliment
 - [ ] Roast beef
-      - for administering medication,
-        __*PLEASE FETCH FROM FRIDGE MEAT DRAWER*__
+  - for administering medication,  
+    __*PLEASE FETCH FROM FRIDGE MEAT DRAWER*__
 - [ ] Bed (out near foot bowls)
 - [ ]  Leash, martingale collar, tag collar
 - (optional: water and food bowl with or without table) You can just use different bowls
