@@ -1,8 +1,8 @@
 # :wolf: Care Instructions for Theo Beekman :dog2:
 
 ## Executive summary:
-**FOOD**: Theo gets 3 scoops of Dick Van Patten's Natural Balance
-L.I.D. dogfood, twice a day. To prepare his food add two tablespoons
+**FOOD**: Theo gets 3 scoops (2 cups) of Dick Van Patten's Natural Balance
+L.I.D. dogfood, twice a day. To prepare his food add two tablespoons (one packet)
 of [Olewo Carrots] to 1 cup water and microwave for 1 minute. Let
 stand until mushy and combine with food. Usually he is fed before
 morning walks and before afternoon walks (see below).
@@ -21,17 +21,18 @@ out. (He will let you know with fairly aggressive whining, which
 usually indicates he needs to go out to prevent an accident.) If he is
 refusing to go out, you can bribe him with roast beef to get him out of
 bed. He has been pretty stubborn recently, so bribery may be required.
-Please put his collar and leash on before giving him any bribe.
+Please put his collar and leash on before giving him any bribe. Expect 2-3
+solid deposits per walk.
 
-**CORN UPDATE (foot problem/condition)**: We alwys feel like we're
+**CORN UPDATE (foot problem/condition)**: We always feel like we're
 playing wack-a-mole with his corns. Theo has a corn on his front
-right and back right paws. His front paw is bothering him the most.
+right and back right paws. Currently, his front paw is bothering him the most.
 Unfortunately there's not a lot that can be done, other than trying
 to plan walks on routes with smoother pavement and grass. We apply a
 topical cream which helps too, but progress is slow.
 
 ## :sparkles: About Theo :sparkles:
-Theo is a red-fawn male (neuter) greyhound, weighing about 80 lbs,
+Theo is a red-fawn male (neutered) greyhound, weighing about 80 lbs,
 born on Jan 8, 2010. He raced in Pima County AZ. He's a genius (kinda)
 a gentleman about town and a lovey dovey. :heart:
 
@@ -106,7 +107,7 @@ day or night; we put our phones on "do not disturb" mode at night, so
 if it is a serious emergency you can reach us by calling more than
 once in rapid succession. Theo's normal vet is City Paws Animal
 Hospital, (202) 232-7297, on 14th St. If they are not open, then there
-is a magnet on the refigerator for Hope Animal Medical center in
+is a magnet on the refigerator for Hope Animal Medical center (703-281-5121) in
 Vienna VA, which is open 24/7 and has emergency facilities. In
 addition, Bunny Beekman (Zaak's mom) can be reached at (917) 796-4653
 (m).
