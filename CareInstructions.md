@@ -4,7 +4,7 @@
 :feet: **FOOT INJURY**:
 On March 2nd Theo stepped on something sharp and cut himself on his front
 right paw. It's a deep puncture wound and was checked out by the vet. He
-is on an additional antibiotic to prevent infection. Please keep an eye
+is on an antibiotic to prevent infection. Please keep an eye
 on it; woresening pain, bleeding or discharges, or swelling will require
 an emergency vet visit.
 
