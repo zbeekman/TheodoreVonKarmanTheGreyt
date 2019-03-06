@@ -1,20 +1,20 @@
 # :wolf: Care Instructions for Theo Beekman :dog2:
 
 ## Executive summary:
-**FOOT INJURY**
+:feet: **FOOT INJURY**:
 On March 2nd Theo stepped on something sharp and cut himself on his front
 right paw. It's a deep puncture wound and was checked out by the vet. He
 is on an additional antibiotic to prevent infection. Please keep an eye
 on it; woresening pain, bleeding or discharges, or swelling will require
 an emergency vet visit.
 
-**FOOD**: Theo gets 3 scoops (2 cups) of Dick Van Patten's Natural Balance
+:ramen: **FOOD**: Theo gets 3 scoops (2 cups) of Dick Van Patten's Natural Balance
 L.I.D. dogfood, twice a day. To prepare his food add two tablespoons
 of [Olewo Carrots] to 1 cup water and microwave for 1 minute. Let
 stand until mushy and combine with food. Usually he is fed before
 morning walks and before afternoon walks (see below).
 
-**MEDICATIONS**: Other than the light-sensitive antibiotics, his
+:pill: **MEDICATIONS**: Other than the light-sensitive antibiotics, his
 pills have been pre-sorted and put into the
 old-grandma style pill box. He gets pills twice a day, once in the
 morning (usually after walks) and once at night (usually after night
@@ -24,7 +24,7 @@ empty stomach if at all possible. Theo gets two Clamavox antibiotic
 tablets (from the foil, they're light sensitive so can't be added to
 the pill box).
 
-**WALKS**: Theo usually goes out 3 times a day. Once around 8:30 AM,
+:walking_man: **WALKS**: Theo usually goes out 3 times a day. Once around 8:30 AM,
 again around 3:00 PM and again around 10:30 PM before bed. There is
 some flexibility here, but in general he should go on 3 walks a day to
 prevent accidents or urgent middle of the night requests to go
@@ -36,7 +36,7 @@ required. Please put his collar and leash on before giving him any bribe.
 Expect 2-4 solid deposits per walk. __DOUBLE CHECK THE BAGS BEFORE 
 LEAVING!__ (At least 4 bags are recommended!)
 
-**CORN UPDATE (foot problem/condition)**: We always feel like we're
+:corn: **CORN UPDATE (foot problem/condition)**: We always feel like we're
 playing wack-a-mole with his corns. Theo has a corn on his front
 right and back right paws.
 Unfortunately there's not a lot that can be done, other than trying
@@ -44,9 +44,9 @@ to plan walks on routes with smoother pavement and grass and avoiding
 rock salt during winter and rough pavement or gravel. We apply a
 topical cream which helps too, but progress is slow.
 
-**EMERGENCIES**
+:hospital: **EMERGENCIES**:
 * Regular vet: City Paws 14th St. (202-232-7297)
-* After hours/serious emergencies: Friendship Animal Hospital (202-363-7300)
+* After hours/serious emergencies: Friendship Animal Hospital (202-363-7300) ([map])
 * Zaak's Mom: Try these numbers in order (24/7):
   * 917-796-4653 (cell)
   * 203-778-5836 (CT house/studio)
