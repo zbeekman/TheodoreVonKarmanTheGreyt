@@ -1,12 +1,6 @@
 # :wolf: Care Instructions for Theo Beekman :dog2:
 
 ## Executive summary:
-:feet: **FOOT INJURY**:
-On March 2nd Theo stepped on something sharp and cut himself on his front
-right paw. It's a deep puncture wound and was checked out by the vet. He
-is on an antibiotic to prevent infection. Please keep an eye
-on it; woresening pain, bleeding or discharges, or swelling will require
-an emergency vet visit.
 
 :ramen: **FOOD**: Theo gets 3 scoops (2 cups) of Dick Van Patten's Natural Balance
 L.I.D. dogfood, twice a day. To prepare his food add two tablespoons
@@ -14,15 +8,12 @@ of [Olewo Carrots] to 1 cup water and microwave for 1 minute. Let
 stand until mushy and combine with food. Usually he is fed before
 morning walks and before afternoon walks (see below).
 
-:pill: **MEDICATIONS**: Other than the light-sensitive antibiotics, his
+:pill: **MEDICATIONS**: His
 pills have been pre-sorted and put into the
 old-grandma style pill box. He gets pills twice a day, once in the
 morning (usually after walks) and once at night (usually after night
 time walks). You can give him his pills wrapped in roast beef :cow:
-with or without food. The antibiotics should __*not*__ be given on an
-empty stomach if at all possible. Theo gets two Clamavox antibiotic
-tablets (from the foil, they're light sensitive so can't be added to
-the pill box).
+with or without food.
 
 :walking_man: **WALKS**: Theo usually goes out 3 times a day. Once around 8:30 AM,
 again around 3:00 PM and again around 10:30 PM before bed. There is
@@ -71,44 +62,31 @@ Theo has anxiety as well as two heart conditions:
  - Arrhythmia (Supraventricular tachycardia)
    - Fast, irregular heartbeat at times. :zap:
 
-### Medications other than the antibiotics have been pre-loaded into grandma-style weekly pill organizers :bento:
+### Medications have been pre-loaded into grandma-style weekly pill organizers :bento:
 Please administer the morning pills after he eats breakfast. Wrap
 pills in roast beef to get him to eat them.  Please administer the
 evening pills after he eats dinner. If he refuses to eat a meal, after
-waiting a while it is OK to give him his pills. Pills other than the Clamavox antibiotics
+waiting a while it is OK to give him his pills. Pills
 have been pre-loaded into the pill box pictured below:
 
 ![pill box](https://github.com/zbeekman/TheodoreVonKarmanTheGreyt/blob/master/Theo-pill-box.png)
 
-The Clamavox antibiotic (to prevent infection of his foot) is in a white envelope, and
-tablet is in a foil blister. Theo gets two Clamavox tablets every 12 hours until gone.
-This medication is light sensitive so it cannot be pre-loaded into the pill box.
-
 __*IMPORTANT:*__ Do not crush any pills or mix them in with damp food
 or liquids. One medication is a time release tablet.
-
-#### Clamavox Tablets
-Individually packaged tablets in a sheet of foil blisters. These are all kept
-in a white Clamavox paper envelope. He gets two tablets twice a day. These
-should not be given on an empty stomach if possible.
 
 #### Diltiazem extended release (Dilt XR) 60 mg tablets
 All white cylindrical tablets. One tablet, twice daily. (120 mg total
 in a day) These are used to treat his Arrhythmia.
 
-__*IMPORTANT:*__ accidental double-dosing could lead to an emergency
+__*IMPORTANT:*__ accidental double-dosing might lead to an emergency
 medical situation.  Please make sure that this pill (white cylindrical
-tablet) is only give once every 8 to 12 hours, preferably after he
+tablet) is only given once every 6 to 12 hours, preferably after he
 eats.
 
 #### Benazepril 10 mg tablets
 Small, bright white, rounder tablets, white interior. One and a half tablets,
 twice daily. (30 mg total in a day) These treat his TVD and help
 prevent congestive heart failure.
-
-#### Gabapentin 300 mg capsules
-Yellow and orange capsules. These help with calm & anxiety and pain caused by
-corns and old racing injuries. Theo gets 1 capsule twice a day.
 
 #### Trazedone 50 mg tablets
 In desperate situations, you can give Theo 2 50 mg Trazedone tablets for
@@ -139,7 +117,7 @@ Unless things get really bad (yelping while pooping etc.) he probably
 does not need to see the vet due to diarrhea. Should things get really
 bad, then a visit to the vet may be in order. In general, it is a good
 idea to ensure that you have at least four bags on hand when walking
-him. While on antibiotics, his stools are usually firm and well behaved.
+him.
 
 ### Heat
 Because greyhounds are delicate creatures, and due to his heart
