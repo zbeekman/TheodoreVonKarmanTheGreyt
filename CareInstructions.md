@@ -6,14 +6,17 @@
 L.I.D. dogfood, twice a day. To prepare his food add two tablespoons
 of [Olewo Carrots] to 1 cup water and microwave for 1 minute. Let
 stand until mushy and combine with food. Usually he is fed before
-morning walks and before afternoon walks (see below).
+morning walks and before afternoon walks (see below). If he is nervous
+he might skip a meal; this is fine as long as he's eating at least 1 good
+meal a day. Throw away food if left out for a long time (8-12 hrs) and make new
+food as appropriate.
 
 :pill: **MEDICATIONS**: His
 pills have been pre-sorted and put into the
 old-grandma style pill box. He gets pills twice a day, once in the
-morning (usually after walks) and once at night (usually after night
-time walks). You can give him his pills wrapped in roast beef :cow:
-with or without food.
+morning (usually before walks) and once at night (usually before night
+time walks). Please give him his pills wrapped in roast beef :cow:
+(or sliced cheese) with or without food.
 
 :walking_man: **WALKS**: Theo usually goes out 3 times a day. Once around 8:30 AM,
 again around 3:00 PM and again around 10:30 PM before bed. There is
@@ -21,11 +24,12 @@ some flexibility here, but in general he should go on 3 walks a day to
 prevent accidents or urgent middle of the night requests to go
 out. (He will let you know with fairly aggressive whining, which
 usually indicates he needs to go out to prevent an accident.) If he is
-refusing to go out, you can bribe him with roast beef or marrow snack 
+refusing to get up to go out, you can bribe him with roast beef or marrow snack 
 treats to get him out of bed. He can be stubborn, so bribery may be
 required. Please put his collar and leash on before giving him any bribe.
 Expect 2-4 solid deposits per walk. __DOUBLE CHECK THE BAGS BEFORE 
-LEAVING!__ (At least 4 bags are recommended!)
+LEAVING!__ (At least 4 bags are recommended!) He is pretty slow, so budget at least
+15-20 minutes and don't expect to cover more ground than a lap around the block.
 
 :corn: **CORN UPDATE (foot problem/condition)**: We always feel like we're
 playing wack-a-mole with his corns. Theo has a corn on his front
@@ -33,18 +37,23 @@ right and back right paws.
 Unfortunately there's not a lot that can be done, other than trying
 to plan walks on routes with smoother pavement and grass and avoiding
 rock salt during winter and rough pavement or gravel. We apply a
-topical cream which helps too, but progress is slow.
+topical cream which helps too, but progress is slow. He also may have some
+joint pain in his back right leg. We are in the process of diagnosing this
+and have an appointment scheduled with an orthopedic specialist. In general
+he likes to walk on softer surfaces, and goes pretty slowly.
 
 :hospital: **EMERGENCIES**:
 * Regular vet: City Paws 14th St. (202-232-7297)
 * After hours/serious emergencies: Friendship Animal Hospital (202-363-7300) ([map])
+* Zaak's Cell: 917-797-3239
+* Janine's Cell: 612-385-3104
 * Zaak's Mom: Try these numbers in order (24/7):
   * 917-796-4653 (cell)
   * 203-778-5836 (CT house/studio)
   * 212-343-7272 (NYC home)
 * If Theo needs to see the Vet or is worked up and is conscious & agitated, please
   give him Trazedone in accordance with the dosing instructions on the bottle
-  (two or three tablets, double check please).
+  (two or three tablets, in a blue bottle in the kitchen basket).
 * You should bring the basket muzzle with you to the vet in an emergency; you
   may need to utilize it at strategic times, like to get him out of the car.
 
@@ -52,6 +61,9 @@ topical cream which helps too, but progress is slow.
 Theo is a red-fawn male (neutered) greyhound, weighing about 80 lbs,
 born on Jan 8, 2010. He raced in Pima County AZ. He's a genius (kinda)
 a gentleman about town and a lovey dovey. :heart:
+
+Sometimes he is a little bit grumpy when lying down or with very energetic playful
+dogs. He likes gentle head/ear scratches, especially when standing up.
 
 ## :pill: Medications :pill:
 Theo has anxiety as well as two heart conditions:
@@ -61,12 +73,12 @@ Theo has anxiety as well as two heart conditions:
      heart failure. :broken_heart:
  - Arrhythmia (Supraventricular tachycardia)
    - Fast, irregular heartbeat at times. :zap:
+ He also get's medication to help with his corn & joint pain.
 
 ### Medications have been pre-loaded into grandma-style weekly pill organizers :bento:
-Please administer the morning pills after he eats breakfast. Wrap
+Please administer the morning pills before walks. Wrap
 pills in roast beef to get him to eat them.  Please administer the
-evening pills after he eats dinner. If he refuses to eat a meal, after
-waiting a while it is OK to give him his pills. Pills
+evening pills before evening walks around 12 hours after AM pills. Pills
 have been pre-loaded into the pill box pictured below:
 
 ![pill box](https://github.com/zbeekman/TheodoreVonKarmanTheGreyt/blob/master/Theo-pill-box.png)
@@ -78,15 +90,19 @@ or liquids. One medication is a time release tablet.
 All white cylindrical tablets. One tablet, twice daily. (120 mg total
 in a day) These are used to treat his Arrhythmia.
 
-__*IMPORTANT:*__ accidental double-dosing might lead to an emergency
-medical situation.  Please make sure that this pill (white cylindrical
-tablet) is only given once every 6 to 12 hours, preferably after he
-eats.
+__*IMPORTANT:*__ Please make sure that this pill (white cylindrical
+tablet) is only given once every ~12 hours. A double dose may cause a
+bad reaction.
 
 #### Benazepril 10 mg tablets
 Small, bright white, rounder tablets, white interior. One and a half tablets,
 twice daily. (30 mg total in a day) These treat his TVD and help
-prevent congestive heart failure.
+prevent congestive heart failure and keeps his blood pressure lower.
+
+#### Gabapentin 300mg capsule
+Yellow capsules. He should definitely get one in the morning, and if loaded
+into the PM spot in the pill-box also in the afternoon/evening. This helps
+with pain and may help make walks easier/more comfortable for him.
 
 #### Trazedone 50 mg tablets
 In desperate situations, you can give Theo 2 50 mg Trazedone tablets for
@@ -95,13 +111,13 @@ and needs to go to the vet.
 
 ## Feeding
 Theo should eat twice a day. Once in the morning around 8:30 AM and
-then once around 6:00 PM. He gets 2 cups of Dick van Patten's limited
+then once around 6:00 PM. He gets 2 cups (three 2/3 cup scoops) of Dick van Patten's limited
 ingredient diet venison and sweet potato kibble mixed with 2
 tablespoons of Olewo dehydrated carrots re-hydrated in 1 cup warm water 
 to firm his stool and aid digestion. If he refuses one or two meals you
 can still give him his pills. He's picky and easily stressed out, which is
 why he may not be enthusiastic about his food. Eventually he will get 
-hungry and eat. Sometimes adding a small treat and/or stirring it can help
+hungry and eat. Sometimes adding a small treat (like a marrow snack) and/or stirring it can help
 entice him to eat.
 
 ### Food prep instuctions
@@ -133,8 +149,8 @@ weather he has a pretty good fleece he can wear.
 
 ### Emergencies
 For medical emergencies it may be necessary to muzzle Theo. He has a black
-basket muzzel that fits pretty well. He usually is OK with you
-putting the muzzle on hime while he's standing, but doesn't like it once
+basket muzzel that fits pretty well. He is generally fine with you
+putting the muzzle on him while he's standing, but doesn't like it once
 it's on and will try to escape. This is not likely to be necessary, but
 you should at least bring it if you need to go to a vet.
 
@@ -180,6 +196,11 @@ down and give him a "Greenie" treat before walking out. This usually
 captivates his attention enough to forget about the fact that you are
 leaving him. I doubt you'll have any problems with this, but it's
 useful to be aware of strategies should this issue arise.
+
+### Kidney Disease
+Theo recently developed kidney disease. His heart medications, fortunately, 
+work partially on double duty for this but we still need to follow up with the vet about it.
+This is a new development, but should not have any impact on his daily care.
 
 [Olewo carrots]: https://www.amazon.com/Olewo-Dehydrated-Carrots-Supplement-11-Pound/dp/B0083QBVHY
 [map]: https://goo.gl/maps/d3A7yb1sNo82
